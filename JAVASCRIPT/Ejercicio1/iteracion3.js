@@ -32,6 +32,7 @@ let p = 10;
 let j = 5;
 
 let o = (p + j);
+console.log(o);
 
 
 // 1.5 Usa el correcto operador de asignación que resultará en i = 50,
@@ -40,5 +41,5 @@ let o = (p + j);
 let c = 10;
 let m = 5;
 
-let i = (c * m);
+let i = (c * m)
 console.log(i);

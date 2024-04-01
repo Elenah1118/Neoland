@@ -25,7 +25,7 @@ const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
 rickAndMortyCharacters.push("Morty",  "Summer");
 console.log(rickAndMortyCharacters);
 
-console.log("el ultimo elemento del array es:" , rickAndMortyCharacters[ rickAndMortyCharacters.length - 1]); 
+console.log("el ultimo elemento del array es:" , rickAndMortyCharacters[ rickAndMortyCharacters.length -1 ]); 
 
 
 
