@@ -36,7 +36,7 @@
     gap: 0.5rem;
 
     & button {
-        width: 30px;
+        width: 30;
         height: 30px;
         border-radius: 5px;
     }
