@@ -1,0 +1,14 @@
+/* import React from 'react';
+import reactLogo from './react-logo.png'; // Asegúrate de tener la imagen en la misma carpeta que este archivo
+
+const Image=()=> {
+    return <img src= {
+        reactLogo
+    }
+
+    alt="React Logo" />;
+}
+
+;
+
+export default Image; */

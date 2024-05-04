@@ -1,0 +1,9 @@
+
+imporimage {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 300px 300px 300px 300px;
+    gap: 1rem;
+    padding: 1rem;
+
+}
