@@ -150,11 +150,16 @@ import Swal from "sweetalert2";
 
 import "./Memory.css";
 
+//todas las cartas que dan vueltas y demas 
+//movimientos que va a haber
+//tiempo
+//boton stop
+
 const template = () => `
 <div id="containerMemory"> 
     <div class="wrapper">
       <div class="stats-c">
-        <div id="moves"></div>
+        <div id="moves"></div>  
         <div id="time"></div>
       </div>
       <div class="game-c"></div>
@@ -166,6 +171,7 @@ const template = () => `
       <button id="start"><img src="./sourceMemory/star_game.gif"></button>
 </div></div>`;
 
+//configuracion de botones stat y stop
 const starGame = () => {
   const startButton = document.getElementById("start");
   const stopButton = document.getElementById("stop");

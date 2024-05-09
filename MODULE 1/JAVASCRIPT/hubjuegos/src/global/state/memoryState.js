@@ -51,7 +51,8 @@ let dataState = {
   firstCardValue: null,
   secondCardValue: null,
 };
-
+//funcion get solo me retorna la infotmacion
+//funcion set que me dice donde me quiero meter y donde esta la informacion, no me devuelve nada
 export const getStateMemory = (typeOfValue) => {
   switch (typeOfValue) {
     case "firstCardValue":

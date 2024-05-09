@@ -27,7 +27,7 @@
         width: 300px;
         height: 40px;
         margin: 20px;
-        background-color: #0def03;
+        background-color: #14c8c5a4;
         border: none;
         border-radius: 5px;
         font-size: 16px;
@@ -44,5 +44,15 @@
 
             transform: scale(0.98);
         }
+        
+    
     }
 }
+ & :root {
+     color: aqua;
+ }
+ 
+ #containerLogin{
+    border-color: rgb(65, 170, 187)
+ }
+ 
